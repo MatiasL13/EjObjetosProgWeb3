@@ -1,0 +1,6 @@
+C:\Users\Ziero-N03\documents\visual studio 2010\Projects\objetos\objetos\bin\objetos.dll
+C:\Users\Ziero-N03\documents\visual studio 2010\Projects\objetos\objetos\bin\objetos.pdb
+C:\Users\Ziero-N03\documents\visual studio 2010\Projects\objetos\objetos\obj\Debug\objetos.dll
+C:\Users\Ziero-N03\documents\visual studio 2010\Projects\objetos\objetos\obj\Debug\objetos.pdb
+C:\Users\Ziero-N03\documents\visual studio 2010\Projects\objetos\objetos\obj\Debug\objetos.csprojResolveAssemblyReference.cache
+C:\Users\Ziero-N03\documents\visual studio 2010\Projects\objetos\objetos\bin\PW3.POO.dll
